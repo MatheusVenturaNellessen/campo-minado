@@ -17,7 +17,7 @@
 
 <h3>Como rodar o projeto</h3>
 
-<p>Para conseguir rodar o projeto, é necessário ter instalado em sua máquina uma IDE, eu recomendo o <a href="https://www.codeblocks.org/" target="_blank">Code::Blocks</a>. Além disso, é necessário baixar o código fonte deste repositório em seu repositório local, após, abra os arquivos com o Code::Blocks e os execute apertando a teclado do teclado F9 ou, se preferir, na parte superior da IDE, na aba <i>Build</i>, clique em <i>Build and run</i>.</p>
+<p>Para conseguir rodar o projeto, é necessário ter instalado em sua máquina uma IDE, eu recomendo o <a href="https://www.codeblocks.org/" target="_blank">Code::Blocks</a>. Além disso, é necessário clonar este repositório para ter-lo em seu repositório local, após, abra o código fonte com a IDE e os execute apertando a teclado do teclado F9 ou, se preferir, na parte superior, na aba <i>Build</i>, clique em <i>Build and run</i>.</p>
 
 <h3>Problemas Encontrados</h3>
 
